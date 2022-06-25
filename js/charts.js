@@ -1,7 +1,7 @@
 export {drawCharts}
 
 function drawCharts(){
-    drawPieChart()
+    drawPieChart();
     drawAxisTickColors()
 }
 
