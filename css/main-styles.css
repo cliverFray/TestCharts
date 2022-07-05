@@ -218,3 +218,15 @@ nav {
 .section-3 .box{
     background-color: transparent;
 }
+
+/*=============Responsive part design===================*/
+
+@media only screen  and (max-width:600px){
+    .section-2 .box-1,
+    .section-2 .box-2,
+    .section-2 .box-3 {
+        padding-bottom: 20px;
+    }
+
+}
+
