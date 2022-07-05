@@ -219,10 +219,11 @@ nav {
     background-color: transparent;
 }
 
-.section-3 .container .sec-3-title h3{
+.section-3 .container .sec-3-title h2{
     padding: 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #fff;
+    text-align: center;
 }
 .section-3 .box-1,
 .section-3 .box-2,
