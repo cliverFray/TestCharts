@@ -219,6 +219,11 @@ nav {
     background-color: transparent;
 }
 
+.section-3 .container .sec-3-title h3{
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 /*=============Responsive part design===================*/
 
 /* For mobile phones: */
