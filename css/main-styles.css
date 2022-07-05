@@ -224,6 +224,13 @@ nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #fff;
 }
+.section-3 .box-1,
+.section-3 .box-2,
+.section-3 .box-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+}
 
 /*=============Responsive part design===================*/
 
