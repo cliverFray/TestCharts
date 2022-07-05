@@ -20,9 +20,7 @@ function drawPieChart(){
         ['Programer',3]
     ]);
     const options={
-        'title':'What is the best',
-        'width':200,
-        'height':300
+        'title':'What is the best'
     };
     var chart =new google.visualization.PieChart(document.getElementById('pie_div'));
     chart.draw(data,options);
