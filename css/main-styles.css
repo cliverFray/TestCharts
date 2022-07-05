@@ -160,6 +160,7 @@ nav {
 .section-2 {
     width: 100%;
     height: auto;
+    color: #fff;
 }
 
 .section-2 {
@@ -238,6 +239,7 @@ nav {
 [class*="col-"] {
     width: 100%;
   }
+/* For tablet */
 @media only screen  and (max-width:600px){
     .section-2 .box-1,
     .section-2 .box-2,
