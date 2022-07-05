@@ -77,6 +77,11 @@ nav {
 .sticky-top {
     transition: all 0.25s ease-in;
 }
+.navbar .align-self-left img{
+    width:50px;
+    height: fit-content;
+}
+
 /*===========jumbotrom section-1============*/
 .jumbotron {
     width: 100%;
